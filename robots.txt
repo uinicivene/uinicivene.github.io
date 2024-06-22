@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uinicivene.github.io/sitemap
+Sitemap: https://uinicivene.github.io/app/sitemap
+Sitemap: https://uinicivene.github.io/assets/sitemap
+Sitemap: https://uinicivene.github.io/css/sitemap
+Sitemap: https://uinicivene.github.io/includes/sitemap
+Sitemap: https://uinicivene.github.io/item/sitemap
+Sitemap: https://uinicivene.github.io/src/sitemap
